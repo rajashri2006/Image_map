@@ -57,7 +57,10 @@ Execute the programs and publish them.
 </body>
 </html>
 # OUTPUT
-![google](https://github.com/user-attachments/assets/c3ec2325-4a38-4946-945c-62038124378c)
+
+
+
+![kodumunai(1)](https://github.com/user-attachments/assets/77836b10-0a08-4b2b-940c-3cdf6d920d61)
 
 
 
