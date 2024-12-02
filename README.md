@@ -58,12 +58,10 @@ Execute the programs and publish them.
 </html>
 # OUTPUT
 
+![pod](https://github.com/user-attachments/assets/5a481986-5f50-40b0-998f-4dcda8bedc3f)
 
 
 ![kodumunai(1)](https://github.com/user-attachments/assets/77836b10-0a08-4b2b-940c-3cdf6d920d61)
-
-
-
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
