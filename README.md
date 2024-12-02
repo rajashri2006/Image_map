@@ -57,8 +57,8 @@ Execute the programs and publish them.
 </body>
 </html>
 # OUTPUT
-![google](https://github.com/user-attachments/assets/30fc184c-d355-46a4-83aa-beef1860ebc8)
-![kodumunai](https://github.com/user-attachments/assets/2674ee17-052b-48cc-a1a1-1a8f152a2305)
+![google](https://github.com/user-attachments/assets/c0a81681-aab0-40a7-a3fc-c65637d3df28)
+
 
 
 # RESULT
